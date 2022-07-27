@@ -9,7 +9,7 @@
 //  \\(__)|
 // `)
 
-//
+//제출 코드 
 console.log(`\\    /\\`)
 console.log(` )  ( ')`)
 console.log(`(  /  )`)
